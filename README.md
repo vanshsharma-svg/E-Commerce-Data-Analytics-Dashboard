@@ -52,9 +52,12 @@ Business Insights
 - Python
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 - DummyJSON API
 - Power BI
 - DAX
+  
 
 ---
 
