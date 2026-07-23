@@ -1,0 +1,29 @@
+## 📋 Requirements
+
+Before running this project, make sure the following software and libraries are installed:
+
+### Software
+- Power BI Desktop
+- Python 3.10+
+- Jupyter Notebook / JupyterLab
+- Git (Optional)
+
+### Python Libraries
+- Pandas
+- NumPy
+- Requests
+- Matplotlib
+- Seaborn
+
+Install the required libraries using:
+
+```bash
+pip install pandas numpy requests matplotlib seaborn
+```
+
+### Data Source
+- DummyJSON API
+- Products Dataset
+- Users Dataset
+- Carts Dataset
+```
